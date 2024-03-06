@@ -55,30 +55,6 @@
  </a>
 </div>
 
-<!-- Featured Projects -->
-<h2 align="center">💻 Featured Projects</h2>
-<div align="center">
- <table>
-   <tr>
-     <td>
-       <a href="https://github.com/rachakondadharmendra/project1" target="_blank" rel="noopener noreferrer">
-         <img src="https://raw.githubusercontent.com/anhyudawan/images/main/project1.png" alt="Project 1" width="200" height="150" />
-       </a>
-     </td>
-     <td>
-       <a href="https://github.com/rachakondadharmendra/project2" target="_blank" rel="noopener noreferrer">
-         <img src="https://raw.githubusercontent.com/anhyudawan/images/main/project2.png" alt="Project 2" width="200" height="150" />
-       </a>
-     </td>
-     <td>
-       <a href="https://github.com/rachakondadharmendra/project3" target="_blank" rel="noopener noreferrer">
-         <img src="https://raw.githubusercontent.com/anhyudawan/images/main/project3.png" alt="Project 3" width="200" height="150" />
-       </a>
-     </td>
-   </tr>
- </table>
-</div>
-
 <!-- Contact Me -->
 <h2 align="center">💬 Connect with Me</h2>
 <p align="center">
