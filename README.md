@@ -42,7 +42,7 @@
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rachakondadharmendra&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <!-- Top Languages -->
@@ -59,7 +59,7 @@
   </samp>
 </p>
 <p align="center">
-  <a href="mailto:youremail@example.com">
+  <a href="rachakondadharmendra@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email Badge" />
   </a>
 </p>
