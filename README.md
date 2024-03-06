@@ -1,7 +1,3 @@
-<!-- Banner -->
-<div align="center">
- <img src="https://raw.githubusercontent.com/anhyudawan/images/main/devops-banner.png" alt="DevOps Banner" width="800" height="400" />
-</div>
 
 <!-- Header -->
 <h1 align="center">Hi there! 👋 I'm Rachakonda Dharmendra</h1>
