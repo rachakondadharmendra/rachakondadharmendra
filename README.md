@@ -9,7 +9,7 @@
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/rachakonda-dharmendra/" target="linkedin" rel="noopener noreferrer" >
+  <a href="https://www.linkedin.com/in/rachakonda-dharmendra/" target="linkedin" >
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   <a href="https://twitter.com/yourtwitterhandle" target="linkedin" rel="noopener noreferrer">
