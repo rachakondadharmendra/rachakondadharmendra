@@ -41,15 +41,14 @@
 
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rachakondadharmendra&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<!-- Top Languages -->
-<h2 align="center">📚 Top Languages</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachakondadharmendra&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
+  <a href="https://github.com/yourgithubusername" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
+  </a>
+  <a href="https://github.com/yourgithubusername" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical" alt="Top Languages" width="300" />
+  </a>
+</div>
 
 <!-- Contact Me -->
 <h2 align="center">💬 Connect with Me</h2>
