@@ -1,32 +1,82 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rachakonda Dharmendra
-=============================================================================================================================================
+<!-- Banner -->
+<div align="center">
+  <img src="https://img.freepik.com/free-photo/beautiful-office-space-cartoon-style\_23-2151043303.jpg" alt="DevOps Banner" width="800" height="300" />
+</div>
 
-Bridging the Gap Between Development and Operations
----------------------------------------------------
+<!-- Header -->
+<h1 align="center">Hi there! 👋 I'm Rachakonda Dharmendra</h1>
+<h3 align="center">A passionate DevOps Engineer</h3>
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [rachakondadharmendrainfo@gmail.com](mailto:rachakondadharmendrainfo@gmail.com)
-
-### Skills
-
-
-<p align="left">
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+<!-- Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/rachakonda-dharmendra/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://twitter.com/yourtwitterhandle" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter Badge" />
+  </a>
+  <a href="https://www.rachakondadharmendra.info" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Website-success?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Website Badge" />
+  </a>
 </p>
 
+<!-- About Me -->
+<p align="center">
+  <samp>
+    I'm a DevOps Engineer with a passion for building scalable and reliable systems. Proficient in various cloud platforms, containerization technologies, and automation tools, I strive to streamline software delivery processes and enhance operational efficiency.
+  </samp>
+</p>
 
-### Socials
+<!-- Tech Stack -->
+<h2 align="center">🚀 Tech Stack</h2>
+<div align="center">
+  <img src="./DevOps_Icons/aws.png" alt="AWS" title="AWS" />
+  <img src="./DevOps_Icons/terraform.png" alt="Terraform" title="Terraform" />
+  <img src="./DevOps_Icons/git.png" alt="Git" title="Git" />
+  <img src="./DevOps_Icons/jenkins.png" alt="Jenkins" title="Jenkins" />
+  <img src="./DevOps_Icons/docker.png" alt="Docker" title="Docker" />
+  <img src="./DevOps_Icons/kubernetes.png" alt="Kubernetes" title="Kubernetes" />
+  <img src="./DevOps_Icons/ansible.png" alt="Ansible" title="Ansible" />
+  <img src="./DevOps_Icons/jmeter.png" alt="Jmeter" title="Jmeter" />
+  <img src="./DevOps_Icons/helm.png" alt="Helm" title="Helm" />
+  <img src="./DevOps_Icons/istio.png" alt="Istio" title="Istio" />
+  <img src="./DevOps_Icons/linux.png" alt="Linux" title="Linux" />
+  <img src="./DevOps_Icons/bash.png" alt="Bash Scripting" title="Bash Scripting" />
+  <img src="./DevOps_Icons/postgresql.png" alt="Postresql" title="Postresql" />
+  <img src="./DevOps_Icons/argocd.png" alt="ArgoCD" title="ArgoCD" />
+  <img src="./DevOps_Icons/jira.png" alt="Jira Software" title="Jira Software" />
+</div>
 
-<p align="left"> <a href="https://www.github.com/rachakondadharmendra" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/rachakondadharmendra" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/rachakondadharmendra" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
+<div align="center">
+  <a href="https://github.com/rachakondadharmendra" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api?username=rachakondadharmendra&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rachakondadharmendra's GitHub stats" />
+  </a>
+  <a href="https://github.com/rachakondadharmendra" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rachakondadharmendra&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  </a>
+  <a href="https://github.com/rachakondadharmendra" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachakondadharmendra&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+  </a>
+</div>
 
-### Badges
+<!-- Contact Me -->
+<h2 align="center">💬 Connect with Me</h2>
+<p align="center">
+  <samp>
+    Feel free to reach out to me for any collaboration, discussion, or just a friendly chat!
+  </samp>
+</p>
+<p align="center">
+  <a href="mailto:rachakondadharmendra@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email Badge" />
+  </a>
+</p>
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/rachakondadharmendra"><img src="https://github-readme-stats.vercel.app/api?username=rachakondadharmendra&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rachakondadharmendra's GitHub stats" /></a>
-
-<a href="http://www.github.com/rachakondadharmendra"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rachakondadharmendra&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/rachakondadharmendra"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=rachakondadharmendra&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/rachakondadharmendra" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachakondadharmendra&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- Footer -->
+<p align="center">
+  <samp>
+    Made with ❤️ by Rachakonda Dharmendra
+  </samp>
+</p>
