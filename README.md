@@ -30,21 +30,21 @@
 <!-- Tech Stack -->
 <h2 align="center">🚀 Tech Stack</h2>
 <div align="center">
-  <img src="./DevOps_Icons/aws.png" alt="AWS" title="AWS" />
-  <img src="./DevOps_Icons/terraform.png" alt="Terraform" title="Terraform" />
-  <img src="./DevOps_Icons/git.png" alt="Git" title="Git" />
-  <img src="./DevOps_Icons/jenkins.png" alt="Jenkins" title="Jenkins" />
-  <img src="./DevOps_Icons/docker.png" alt="Docker" title="Docker" />
-  <img src="./DevOps_Icons/kubernetes.png" alt="Kubernetes" title="Kubernetes" />
-  <img src="./DevOps_Icons/ansible.png" alt="Ansible" title="Ansible" />
-  <img src="./DevOps_Icons/jmeter.png" alt="Jmeter" title="Jmeter" />
-  <img src="./DevOps_Icons/helm.png" alt="Helm" title="Helm" />
-  <img src="./DevOps_Icons/istio.png" alt="Istio" title="Istio" />
-  <img src="./DevOps_Icons/linux.png" alt="Linux" title="Linux" />
-  <img src="./DevOps_Icons/bash.png" alt="Bash Scripting" title="Bash Scripting" />
-  <img src="./DevOps_Icons/postgresql.png" alt="Postresql" title="Postresql" />
-  <img src="./DevOps_Icons/argocd.png" alt="ArgoCD" title="ArgoCD" />
-  <img src="./DevOps_Icons/jira.png" alt="Jira Software" title="Jira Software" />
+  <img src="./DevOps_Icons/aws.png" alt="AWS" title="AWS" width="50" height="50" />
+  <img src="./DevOps_Icons/terraform.png" alt="Terraform" title="Terraform" width="50" height="50" />
+  <img src="./DevOps_Icons/git.png" alt="Git" title="Git" width="50" height="50" />
+  <img src="./DevOps_Icons/jenkins.png" alt="Jenkins" title="Jenkins" width="50" height="50" />
+  <img src="./DevOps_Icons/docker.png" alt="Docker" title="Docker" width="50" height="50" />
+  <img src="./DevOps_Icons/kubernetes.png" alt="Kubernetes" title="Kubernetes" width="50" height="50" />
+  <img src="./DevOps_Icons/ansible.png" alt="Ansible" title="Ansible" width="50" height="50" />
+  <img src="./DevOps_Icons/jmeter.png" alt="Jmeter" title="Jmeter" width="50" height="50" />
+  <img src="./DevOps_Icons/helm.png" alt="Helm" title="Helm" width="50" height="50" />
+  <img src="./DevOps_Icons/istio.png" alt="Istio" title="Istio" width="50" height="50" />
+  <img src="./DevOps_Icons/linux.png" alt="Linux" title="Linux" width="50" height="50" />
+  <img src="./DevOps_Icons/bash.png" alt="Bash Scripting" title="Bash Scripting" width="50" height="50" />
+  <img src="./DevOps_Icons/postgresql.png" alt="Postresql" title="Postresql" width="50" height="50" />
+  <img src="./DevOps_Icons/argocd.png" alt="ArgoCD" title="ArgoCD" width="50" height="50" />
+  <img src="./DevOps_Icons/jira.png" alt="Jira Software" title="Jira Software" width="50" height="50" />
 </div>
 
 <!-- GitHub Stats -->
