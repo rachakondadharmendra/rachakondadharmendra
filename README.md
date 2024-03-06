@@ -1,43 +1,103 @@
-# Rachakonda Dharmendra
-
-** Hi there!** I'm a passionate DevOps Engineer with a knack for building **scalable and reliable systems**. I'm proficient in various cloud platforms, containerization technologies, and automation tools, always striving to **streamline software delivery** and **enhance operational efficiency**.
-
-** Tech Stack:**
-
+<!-- Banner -->
 <div align="center">
-  <img src="./DevOps_Icons/kubernetes.png" alt="Kubernetes" title="Kubernetes" width="40" height="40" />
-  <img src="./DevOps_Icons/aws.png" alt="AWS" title="AWS" width="40" height="40" />
-  <img src="./DevOps_Icons/terraform.png" alt="Terraform" title="Terraform" width="40" height="40" />
-  <img src="./DevOps_Icons/jenkins.png" alt="Jenkins" title="Jenkins" width="40" height="40" />
-  </div>
+ <img src="https://raw.githubusercontent.com/anhyudawan/images/main/devops-banner.png" alt="DevOps Banner" width="800" height="400" />
+</div>
 
-** GitHub Stats:**
+<!-- Header -->
+<h1 align="center">Hi there! 👋 I'm Rachakonda Dharmendra</h1>
+<h3 align="center">A Passionate DevOps Engineer</h3>
 
-[![GitHub stars](https://img.shields.io/github/stars/rachakondadharmendra?style=flat-square)](https://github.com/rachakondadharmendra)
-[![GitHub forks](https://img.shields.io/github/forks/rachakondadharmendra?style=flat-square)](https://github.com/rachakondadharmendra)
-[![GitHub top language](https://img.shields.io/github/languages/top/rachakondadharmendra?style=flat-square)](https://github.com/rachakondadharmendra)
+<!-- Intro -->
+<p align="center">
+ <samp>
+   As a DevOps Engineer, I specialize in automating software delivery processes and streamlining infrastructure management. With a keen eye for scalability, reliability, and efficiency, I leverage cutting-edge technologies and methodologies to optimize application deployments and enhance operational workflows.
+ </samp>
+</p>
 
-** Connect with Me:**
+<!-- Badges -->
+<p align="center">
+ <a href="https://www.linkedin.com/in/rachakonda-dharmendra/" target="_blank" rel="noopener noreferrer">
+   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" />
+ </a>
+ <a href="https://twitter.com/yourtwitterhandle" target="_blank" rel="noopener noreferrer">
+   <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
+ </a>
+ <a href="https://www.rachakondadharmendra.info" target="_blank" rel="noopener noreferrer">
+   <img src="https://img.shields.io/badge/-Website-4285F4?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website Badge" />
+ </a>
+</p>
 
-<ul>
-  <li><a href="mailto:rachakondadharmendra@gmail.com">✉️ rachakondadharmendra@gmail.com</a></li>
-  <li><a href="https://www.linkedin.com/in/rachakonda-dharmendra/"> LinkedIn</a></li>
-  <li><a href="https://twitter.com/yourtwitterhandle"> Twitter</a> (replace with your Twitter handle)</li>
-</ul>
+<!-- Tech Stack -->
+<h2 align="center">🛠️ Tech Stack</h2>
+<p align="center">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="AWS" width="40" height="40" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash Scripting" width="40" height="40" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
+ <img src="https://raw.githubusercontent.com/argoproj/argoproj/master/argocd/iconstr.svg" alt="ArgoCD" width="40" height="40" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira Software" width="40" height="40" />
+</p>
 
-**‍ Experience:**
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
+<div align="center">
+ <a href="https://github.com/rachakondadharmendra" target="_blank" rel="noopener noreferrer">
+   <img src="https://github-readme-stats.vercel.app/api?username=rachakondadharmendra&show_icons=true&hide=&count_private=true&title_color=6366F1&text_color=ffffff&icon_color=6366F1&bg_color=1F2937&hide_border=true&show_icons=true" alt="rachakondadharmendra's GitHub stats" />
+ </a>
+ <a href="https://github.com/rachakondadharmendra" target="_blank" rel="noopener noreferrer">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rachakondadharmendra&stroke=ffffff&background=1F2937&ring=6366F1&fire=6366F1&currStreakNum=ffffff&currStreakLabel=6366F1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+ </a>
+ <a href="https://github.com/rachakondadharmendra" target="_blank" rel="noopener noreferrer">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachakondadharmendra&langs_count=10&title_color=6366F1&text_color=ffffff&icon_color=6366F1&bg_color=1F2937&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+ </a>
+</div>
 
-* **Freelancer (May 2023 - Jan 2024)**: DevOps Engineer
-  * Achieved a 50% reduction in manual deployments using Bitbucket, Ansible, and Jenkins.
-  * Restructured 70% of infrastructure for an Indian client, resulting in a 14% decrease in expenses.
-  * Optimized operational workflows with Ansible automation, reducing manual effort by 5-7%.
-* **Decimal Point Analytics (Feb 2023 - Apr 2023)**: DevOps Engineer
-  * Successfully integrated CI/CD pipelines and New Relic for improved performance insights.
-  * Reduced manual deployments by 5% through automated CI/CD pipelines in Jenkins.
-* **(Add previous experiences briefly)**
+<!-- Featured Projects -->
+<h2 align="center">💻 Featured Projects</h2>
+<div align="center">
+ <table>
+   <tr>
+     <td>
+       <a href="https://github.com/rachakondadharmendra/project1" target="_blank" rel="noopener noreferrer">
+         <img src="https://raw.githubusercontent.com/anhyudawan/images/main/project1.png" alt="Project 1" width="200" height="150" />
+       </a>
+     </td>
+     <td>
+       <a href="https://github.com/rachakondadharmendra/project2" target="_blank" rel="noopener noreferrer">
+         <img src="https://raw.githubusercontent.com/anhyudawan/images/main/project2.png" alt="Project 2" width="200" height="150" />
+       </a>
+     </td>
+     <td>
+       <a href="https://github.com/rachakondadharmendra/project3" target="_blank" rel="noopener noreferrer">
+         <img src="https://raw.githubusercontent.com/anhyudawan/images/main/project3.png" alt="Project 3" width="200" height="150" />
+       </a>
+     </td>
+   </tr>
+ </table>
+</div>
 
-** Education:**
+<!-- Contact Me -->
+<h2 align="center">💬 Connect with Me</h2>
+<p align="center">
+ <samp>
+   Feel free to reach out to me for any collaboration, discussion, or just a friendly chat!
+ </samp>
+</p>
+<p align="center">
+ <a href="mailto:rachakondadharmendra@gmail.com" target="_blank" rel="noopener noreferrer">
+   <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Badge" />
+ </a>
+</p>
 
-* **Kalasalingam Academy of Research and Education (Aug 2018 - May 2022)**: Bachelor of Technology (B.Tech.) - ECE
-
-**Made with ❤️ by Rachakonda Dharmendra**
+<!-- Footer -->
+<p align="center">
+ <samp>
+   Made with ❤️ by Rachakonda Dharmendra
+ </samp>
+</p>
