@@ -4,18 +4,18 @@
 </div>
 
 <!-- Header -->
-<h1 align="center">Hi there! 👋 I'm [Your Name]</h1>
+<h1 align="center">Hi there! 👋 I'm Rachakonda Dharmendra</h1>
 <h3 align="center">A passionate DevOps Engineer</h3>
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedinprofile">
+  <a href="https://www.linkedin.com/in/rachakonda-dharmendra/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   <a href="https://twitter.com/yourtwitterhandle">
     <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter Badge" />
   </a>
-  <a href="https://www.yourwebsite.com">
+  <a href="https://www.rachakondadharmendra.info">
     <img src="https://img.shields.io/badge/-Website-success?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Website Badge" />
   </a>
 </p>
@@ -48,7 +48,7 @@
 <!-- Top Languages -->
 <h2 align="center">📚 Top Languages</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachakondadharmendra&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <!-- Contact Me -->
