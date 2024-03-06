@@ -9,13 +9,13 @@
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/rachakonda-dharmendra/">
+  <a href="https://www.linkedin.com/in/rachakonda-dharmendra/" target="_blank" rel="noopener noreferrer" >
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="https://twitter.com/yourtwitterhandle">
+  <a href="https://twitter.com/yourtwitterhandle" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter Badge" />
   </a>
-  <a href="https://www.rachakondadharmendra.info">
+  <a href="https://www.rachakondadharmendra.info" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Website-success?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Website Badge" />
   </a>
 </p>
