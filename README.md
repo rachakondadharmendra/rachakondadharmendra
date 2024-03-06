@@ -5,10 +5,10 @@
 ** Tech Stack:**
 
 <div align="center">
-  <img src="path/to/kubernetes.png" alt="Kubernetes" title="Kubernetes" width="40" height="40" />
-  <img src="path/to/aws.png" alt="AWS" title="AWS" width="40" height="40" />
-  <img src="path/to/terraform.png" alt="Terraform" title="Terraform" width="40" height="40" />
-  <img src="path/to/jenkins.png" alt="Jenkins" title="Jenkins" width="40" height="40" />
+  <img src="./DevOps_Icons/kubernetes.png" alt="Kubernetes" title="Kubernetes" width="40" height="40" />
+  <img src="./DevOps_Icons/aws.png" alt="AWS" title="AWS" width="40" height="40" />
+  <img src="./DevOps_Icons/terraform.png" alt="Terraform" title="Terraform" width="40" height="40" />
+  <img src="./DevOps_Icons/jenkins.png" alt="Jenkins" title="Jenkins" width="40" height="40" />
   </div>
 
 ** GitHub Stats:**
