@@ -15,9 +15,6 @@
  <a href="https://www.linkedin.com/in/rachakonda-dharmendra/" target="_blank" rel="noopener noreferrer">
    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" />
  </a>
- <a href="https://twitter.com/yourtwitterhandle" target="_blank" rel="noopener noreferrer">
-   <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
- </a>
  <a href="https://www.rachakondadharmendra.info" target="_blank" rel="noopener noreferrer">
    <img src="https://img.shields.io/badge/-Website-4285F4?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website Badge" />
  </a>
