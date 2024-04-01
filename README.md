@@ -1,7 +1,6 @@
-
 <!-- Header -->
-<h1 align="center">Hi there! 👋 I'm Rachakonda Dharmendra</h1>
-<h3 align="center">A Passionate DevOps Engineer</h3>
+<h1 align="center">👋 Welcome! I'm Rachakonda Dharmendra</h1>
+<h3 align="center">Passionate DevOps Engineer</h3>
 
 <!-- Intro -->
 <p align="center">
@@ -37,19 +36,21 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira Software" width="40" height="40" />
 </p>
 
+<!-- Message -->
+<h2 align="center"><samp style="font-size: 24px;">🚀 Please look into this project's <a href="https://github.com/rachakondadharmendra/Projects-Overview" target="_blank" rel="noopener noreferrer">repository</a> for insights on all ongoing, upcoming, and completed projects. 🚀</samp></h2>
+
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
  <a href="https://github.com/rachakondadharmendra" target="_blank" rel="noopener noreferrer">
-   <img src="https://github-readme-stats.vercel.app/api?username=rachakondadharmendra&show_icons=true&hide=&count_private=true&title_color=6366F1&text_color=ffffff&icon_color=6366F1&bg_color=1F2937&hide_border=true&show_icons=true" alt="rachakondadharmendra's GitHub stats" />
- </a>
- <a href="https://github.com/rachakondadharmendra" target="_blank" rel="noopener noreferrer">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rachakondadharmendra&stroke=ffffff&background=1F2937&ring=6366F1&fire=6366F1&currStreakNum=ffffff&currStreakLabel=6366F1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
  </a>
- <a href="https://github.com/rachakondadharmendra" target="_blank" rel="noopener noreferrer">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachakondadharmendra&langs_count=10&title_color=6366F1&text_color=ffffff&icon_color=6366F1&bg_color=1F2937&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
- </a>
 </div>
+
+## 🚀 Github Stats
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 
 <!-- Contact Me -->
 <h2 align="center">💬 Connect with Me</h2>
@@ -63,6 +64,7 @@
    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Badge" />
  </a>
 </p>
+
 
 <!-- Footer -->
 <p align="center">
