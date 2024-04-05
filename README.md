@@ -37,7 +37,7 @@
 </p>
 
 <!-- Message -->
-<h2 align="center"><samp style="font-size: 24px;">🚀 Please look into this project's <a href="https://github.com/rachakondadharmendra/Projects-Overview" target="_blank" rel="noopener noreferrer">repository</a> for insights on all ongoing, upcoming, and completed projects. 🚀</samp></h2>
+<h2 align="center"><samp style="font-size: 24px;">🚀 Please look into this project's <a href="https://github.com/rachakondadharmendra/Projects-Overview/blob/main/README.md" target="_blank" rel="noopener noreferrer">repository</a> for insights on all ongoing, upcoming, and completed projects. 🚀</samp></h2>
 
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
